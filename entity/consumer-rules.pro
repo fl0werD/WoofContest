@@ -1,0 +1,1 @@
+-keep class fl0wer.entity.** { *; }
